@@ -169,18 +169,3 @@ online-admission-system/
 **Email Not Sending:**
 - Configure SMTP settings
 - Check mail() function is enabled
-
-## Support
-
-For issues or customization:
-- Email: projectworldsofficial@gmail.com
-- WhatsApp: +91 7000830947
-
-## License
-
-Free to use for educational purposes.
-
----
-
-**Developed for Academic Projects**
-**Version 1.0 - February 2026**
